@@ -12,5 +12,12 @@
     "tema": "control de versiones",
     "nivel": "intermedio",
     "autor_fuente": "Git"
+  },
+  {
+    "titulo": "Curso de desarrollo web",
+    "tipo": "video",
+    "tema": "desarrollo web",
+    "nivel": "básico",
+    "autor_fuente": "freeCodeCamp"
   }
 ]
