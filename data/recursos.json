@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Python para principiantes",
+    "tipo": "libro",
+    "tema": "programación",
+    "nivel": "básico",
+    "autor_fuente": "Comunidad Python"
+  },
+  {
+    "titulo": "Documentación oficial de Git",
+    "tipo": "sitio web",
+    "tema": "control de versiones",
+    "nivel": "intermedio",
+    "autor_fuente": "Git"
+  }
+]
