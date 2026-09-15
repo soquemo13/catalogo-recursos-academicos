@@ -33,3 +33,10 @@ En Windows, activa el entorno con:
 ```powershell
 .venv\Scripts\activate
 ```
+
+## Próximas mejoras
+
+- Implementar el registro de nuevos recursos.
+- Agregar búsquedas y filtros.
+- Validar los datos almacenados.
+- Crear una interfaz para consultar el catálogo.
